@@ -9,6 +9,7 @@ class hello {
             result = 20;
         
         System.out.println(result);
+        
 
 
 
